@@ -17,4 +17,5 @@ class Shoe
     BRANDS << brand
   end
 
+  binding.pry
 end
